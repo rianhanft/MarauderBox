@@ -13,7 +13,6 @@
 - Work toward support for the intended Marauder V8 / ESP32-C5 hardware, while distinguishing verified targets from planned targets.
 - Keep source, build instructions, firmware assets, release notes, checksums, and installation guidance together.
 
-Feature parity, successful compilation, and hardware support should only be marked complete after they are built and tested on the named target. See [MarauderBox project scope](docs/MARAUDERBOX_SCOPE.md).
 
 ## Installation
 
