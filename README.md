@@ -1,4 +1,4 @@
-# MarauderBox
+# MarauderBox for Marauder V8
 
 <img width="480" height="640" alt="boot_mock2" src="https://github.com/user-attachments/assets/ccfbf5e7-bf5e-4cb3-8a8b-1797bb592f46" />
 
