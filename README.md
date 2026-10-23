@@ -2,7 +2,7 @@
 
 <img width="480" height="640" alt="boot_mock2" src="https://github.com/user-attachments/assets/ccfbf5e7-bf5e-4cb3-8a8b-1797bb592f46" />
 
-**MarauderBox** is a community firmware project exploring how to bring selected NyanBox-compatible apps and Marauder Eternal capabilities into an official-style ESP32 Marauder interface, with Marauder V8 / ESP32-C5 support as a project goal.
+**MarauderBox** is a community firmware project exploring how to bring selected NyanBox-compatible apps and Marauder capabilities into an official-style ESP32 Marauder interface. This project was specifically meant to be ran on the Marauder V8.
 
 > **Current repository status:** The existing source tree is based on ESP32 Marauder 1.19.1 firmware and NyanBox attack flows for the Marauder v8. That does not by itself prove a completed merge or verified firmware for every Marauder version/revision. Hardware compatibility and feature parity must be validated against the exact board before flashing. MarauderBox is an independent community project, not an official JustCallMeKoKo release.
 
