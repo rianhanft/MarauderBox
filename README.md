@@ -31,6 +31,6 @@ This project repository should retain the source tree, local libraries, build sc
 
 ## Licensing and attribution
 
-MarauderBox builds on open-source ESP32 Marauder / Marauder Eternal work. Preserve upstream copyright notices and comply with the licenses for source files, libraries, assets, and redistributed binaries. Confirm each upstream component's license before redistributing modified or bundled versions.
+MarauderBox builds on open-source ESP32 Marauder / NyanBox / Marauder eternal firmware. Preserve upstream copyright notices and comply with the licenses for source files, libraries, assets, and redistributed binaries. Confirm each upstream component's license before redistributing modified or bundled versions.
 
 ---
