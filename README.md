@@ -1,6 +1,6 @@
 # MarauderBox for Marauder V8
 
-<img width="480" height="640" alt="boot_mock2" src="https://github.com/user-attachments/assets/ccfbf5e7-bf5e-4cb3-8a8b-1797bb592f46" />
+<img width="480" height="640" alt="preview" src="https://github.com/user-attachments/assets/3e55c53f-877c-48f0-821a-afe8e6eed3f3" />
 
 **MarauderBox** is a community firmware project exploring how to bring selected NyanBox-compatible apps and Marauder capabilities into an official-style ESP32 Marauder interface. This project was specifically meant to be ran on the Marauder V8.
 
