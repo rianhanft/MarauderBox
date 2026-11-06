@@ -23,7 +23,6 @@ Start with the upstream documentation and releases:
 - [Official SD-card update instructions](https://github.com/justcallmekoko/ESP32Marauder/wiki/sd-update)
 
 Use the official download/installer workflow only when the image and workflow explicitly support your exact board. For a supported SD-card update workflow, follow the upstream guide, including its required filename and menu steps. A clean USB installation will require bootloader and partition assets, not just an application `.bin`. (which you can get off of JCMK's official firmware-flasher website.) If using the offical marauder firmware flasher website, select - 8 MB • default_8MB • Two 3.19 MiB OTA for the partition scheme.
-application slots
 
 ## Repository contents and release assets
 
