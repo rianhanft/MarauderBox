@@ -35,7 +35,7 @@ That prints a public link and a QR code:
 **Scan the QR** (or open the link) on your phone and you're in. Press **Ctrl-C**
 in the terminal to stop — the link dies the moment you quit.
 
-**First time?** You need two things in place:
+**FIRST TIME?** You need two things in place:
 
 1. **pyserial** (one-time):
    ```
